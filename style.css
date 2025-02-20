@@ -1,0 +1,143 @@
+/* Reset default margins/padding */
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+}
+
+/* Wrapper to center content and allow scrolling if needed */
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;  /* Use min-height to allow growth */
+    padding: 20px;      /* Prevent content from touching viewport edges */
+}
+
+/* Main container for the quiz */
+.container {
+    width: 80%;
+    max-width: 800px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease;
+    margin-top: 20px; /* Extra space on top in case content is taller */
+}
+
+/* Headings */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Question container styling */
+.question-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    animation: slideIn 0.5s ease;
+}
+
+/* Question text */
+.question {
+    font-weight: bold;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+/* Options container */
+.options {
+    margin-top: 10px;
+}
+
+/* Option button styling */
+.option {
+    display: block;
+    margin-bottom: 8px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.option:hover {
+    background-color: #e0e0e0;
+}
+
+/* Styling for correct and incorrect selections */
+.correct {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.incorrect {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+/* Submit button styling */
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Result box styling */
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+/* Navigation buttons styling */
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.nav-btn {
+    padding: 10px 15px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    background-color: #5a6268;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateY(20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}

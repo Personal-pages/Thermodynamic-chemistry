@@ -1,0 +1,502 @@
+[
+  {
+      "question": "Which of the following is a state function?",
+      "options": [
+        "Heat",
+        "Work",
+        "Internal energy",
+        "Distance"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The enthalpy change for a reaction is negative. This indicates that the reaction is:",
+      "options": [
+        "Endothermic",
+        "Exothermic",
+        "Non-spontaneous",
+        "Reversible"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following processes is an isochoric process?",
+      "options": [
+        "Heating a gas at constant volume",
+        "Expansion of gas at constant pressure",
+        "Melting of ice",
+        "Boiling of water"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which law of thermodynamics is also known as the law of energy conservation?",
+      "options": [
+        "First law",
+        "Second law",
+        "Third law",
+        "Zeroth law"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The work done during isothermal reversible expansion of an ideal gas is given by:",
+      "options": [
+        "W = nRT ln(V2/V1)",
+        "W = -nRT ln(V2/V1)",
+        "W = PΔV",
+        "W = -PΔV"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The heat absorbed or released during a reaction at constant pressure is known as:",
+      "options": [
+        "Entropy",
+        "Internal energy",
+        "Gibbs free energy",
+        "Enthalpy"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "What is the value of the gas constant (R) in SI units?",
+      "options": [
+        "8.314 J K^-1 mol^-1",
+        "0.0821 L atm mol^-1 K^-1",
+        "1.987 cal K^-1 mol^-1",
+        "22.4 L mol^-1"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In an adiabatic process, which quantity remains constant?",
+      "options": [
+        "Pressure",
+        "Temperature",
+        "Volume",
+        "Heat"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a spontaneous process?",
+      "options": [
+        "Melting of ice below 0°C",
+        "Flow of heat from cold to hot body",
+        "Expansion of gas into a vacuum",
+        "Compression of gas in a cylinder"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The change in internal energy of a system is given by:",
+      "options": [
+        "ΔU = q - W",
+        "ΔU = W - q",
+        "ΔU = q + W",
+        "ΔU = -q + W"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "For a process at constant temperature, the enthalpy change is equal to:",
+      "options": [
+        "Work done",
+        "Internal energy change",
+        "Entropy change",
+        "Heat absorbed or released"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is true for an endothermic process?",
+      "options": [
+        "ΔH < 0",
+        "ΔH = 0",
+        "ΔH > 0",
+        "ΔH is unpredictable"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The entropy of the universe:",
+      "options": [
+        "Always increases",
+        "Always decreases",
+        "Remains constant",
+        "Can increase or decrease"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the Gibbs free energy change (ΔG) at equilibrium?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Infinite"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The enthalpy of formation of an element in its most stable form is:",
+      "options": [
+        "Zero",
+        "Positive",
+        "Negative",
+        "Infinite"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which equation represents the first law of thermodynamics?",
+      "options": [
+        "ΔU = q + W",
+        "ΔG = ΔH - TΔS",
+        "ΔH = ΔU + PΔV",
+        "ΔS = q/T"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In which of the following processes is work done by the system?",
+      "options": [
+        "Compression of gas",
+        "Expansion of gas",
+        "Isothermal process",
+        "Isochoric process"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following quantities is a path function?",
+      "options": [
+        "Heat",
+        "Internal energy",
+        "Enthalpy",
+        "Gibbs free energy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the unit of work in SI?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Watt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of ΔG for a non-spontaneous process?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Unpredictable"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The term ΔH represents:",
+      "options": [
+        "Change in enthalpy",
+        "Change in entropy",
+        "Change in Gibbs free energy",
+        "Change in temperature"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The efficiency of a Carnot engine depends on:",
+      "options": [
+        "Temperatures of reservoirs",
+        "Pressure of gas",
+        "Volume of gas",
+        "Nature of gas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "At constant temperature and pressure, ΔG is given by:",
+      "options": [
+        "ΔH - TΔS",
+        "TΔS - ΔH",
+        "ΔH + TΔS",
+        "TΔH - ΔS"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a state function?",
+      "options": [
+        "Work",
+        "Enthalpy",
+        "Internal energy",
+        "Entropy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The enthalpy change for the combustion of 1 mol of a substance is called:",
+      "options": [
+        "Heat of formation",
+        "Heat of reaction",
+        "Heat of combustion",
+        "Heat of fusion"
+      ],
+      "correct": 2
+    },
+  {
+    "question": "Which of the following thermodynamic quantities is always positive for a spontaneous process?",
+    "options": [
+      "ΔSsystem",
+      "ΔSsurroundings",
+      "ΔSuniverse",
+      "ΔH"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which process does not involve a change in entropy?",
+    "options": [
+      "Melting of ice",
+      "Expansion of gas",
+      "Isothermal reversible compression",
+      "Isothermal reversible expansion"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The term ΔG° in thermodynamics refers to:",
+    "options": [
+      "Standard Gibbs free energy",
+      "Change in enthalpy",
+      "Heat capacity",
+      "Entropy at constant pressure"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "If a system absorbs 500 J of heat and does 200 J of work, the change in internal energy is:",
+    "options": [
+      "300 J",
+      "700 J",
+      "-300 J",
+      "500 J"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following processes is endothermic?",
+    "options": [
+      "Combustion of methane",
+      "Freezing of water",
+      "Evaporation of water",
+      "Condensation of steam"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The relationship between Cp and Cv for an ideal gas is:",
+    "options": [
+      "Cp = Cv + R",
+      "Cp = Cv - R",
+      "Cp = Cv",
+      "Cp = Cv × R"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The heat change at constant pressure is equal to:",
+    "options": [
+      "ΔH",
+      "ΔS",
+      "ΔU",
+      "Work done"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The Gibbs free energy for a system at equilibrium is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For an ideal gas, the value of γ (Cp/Cv) is:",
+    "options": [
+      "1.33",
+      "1.40",
+      "1.67",
+      "2.00"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The entropy change (ΔS) for an ideal gas during isothermal expansion is given by:",
+    "options": [
+      "ΔS = nR ln(V2/V1)",
+      "ΔS = nCv ln(T2/T1)",
+      "ΔS = 0",
+      "ΔS = q/T"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which condition is true for a cyclic process?",
+    "options": [
+      "ΔU = 0",
+      "ΔS > 0",
+      "ΔG = 0",
+      "q = 0"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In an irreversible process, the entropy change of the universe is:",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "Unpredictable"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the heat released or absorbed during a chemical reaction at constant volume called?",
+    "options": [
+      "Work",
+      "Enthalpy change",
+      "Internal energy change",
+      "Entropy change"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which law of thermodynamics states that 'entropy of a perfect crystal at absolute zero is zero'?",
+    "options": [
+      "First law",
+      "Second law",
+      "Third law",
+      "Zeroth law"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For an exothermic reaction at equilibrium, increasing the temperature will:",
+    "options": [
+      "Shift equilibrium towards products",
+      "Shift equilibrium towards reactants",
+      "Have no effect",
+      "Stop the reaction"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In a bomb calorimeter, the heat change is equal to:",
+    "options": [
+      "qv = ΔU",
+      "qp = ΔH",
+      "q = ΔS",
+      "q = ΔG"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The enthalpy of vaporization of water at 373 K is 40.8 kJ/mol. What is the entropy change for the process?",
+    "options": [
+      "109.4 J/K mol",
+      "10.94 J/K mol",
+      "1094 J/K mol",
+      "4.08 J/K mol"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The spontaneous mixing of two gases is an example of:",
+    "options": [
+      "Increase in enthalpy",
+      "Decrease in entropy",
+      "Increase in entropy",
+      "Decrease in enthalpy"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The enthalpy of formation of an element in its standard state is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "If ΔH = +35.5 kJ and ΔS = +83.6 J/K, the reaction will be spontaneous at:",
+    "options": [
+      "All temperatures",
+      "Low temperatures",
+      "High temperatures",
+      "Never spontaneous"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the unit of entropy?",
+    "options": [
+      "J/K",
+      "J/mol",
+      "J/mol K",
+      "kJ/mol"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following quantities is not a state function?",
+    "options": [
+      "Internal energy",
+      "Work",
+      "Enthalpy",
+      "Entropy"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A process in which the system absorbs heat but the temperature remains constant is called:",
+    "options": [
+      "Isothermal process",
+      "Adiabatic process",
+      "Isobaric process",
+      "Isochoric process"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The work done in an isothermal reversible expansion of an ideal gas can be calculated using:",
+    "options": [
+      "W = PΔV",
+      "W = -nRT ln(V2/V1)",
+      "W = -PΔV",
+      "W = ΔU"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For a real gas, the internal energy depends on:",
+    "options": [
+      "Temperature only",
+      "Pressure only",
+      "Temperature and volume",
+      "Volume only"
+    ],
+    "correct": 2
+  }
+]
